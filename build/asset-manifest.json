@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0511f5cb.css",
+    "main.js": "/static/js/main.73e370d3.js",
+    "static/media/header 3.jpg": "/static/media/header 3.ee2ef6c96e0b14947153.jpg",
+    "static/media/header 7.jpg": "/static/media/header 7.3697303815d006d718e4.jpg",
+    "static/media/blue pottery.png": "/static/media/blue pottery.9a11b3d06cf3d5d9b90b.png",
+    "static/media/header 8.jpg": "/static/media/header 8.003d22bf7b9e944fdd58.jpg",
+    "static/media/bangles 2.png": "/static/media/bangles 2.6a74ddda4c5f49b47469.png",
+    "static/media/header 1.jpg": "/static/media/header 1.47d6bfd05b08b8874083.jpg",
+    "static/media/others.png": "/static/media/others.b4f70259421c1218e69c.png",
+    "static/media/header 5.jpg": "/static/media/header 5.36853c9077af82793073.jpg",
+    "static/media/circle footwear.png": "/static/media/circle footwear.4be48b5e2403a9859b79.png",
+    "static/media/bags.png": "/static/media/bags.da942e44ceb98c8fbd36.png",
+    "static/media/header 2.jpg": "/static/media/header 2.e8e0a030c1db60e43045.jpg",
+    "static/media/homedecor.png": "/static/media/homedecor.6aeb2da2906bc2af8e20.png",
+    "static/media/stone.png": "/static/media/stone.d59241ccdd5c9e7883ea.png",
+    "static/media/header 9.jpg": "/static/media/header 9.d9a26d364a0a48ac66f5.jpg",
+    "static/media/jewellery1.png": "/static/media/jewellery1.d8f6af3523afe372b95b.png",
+    "static/media/header 4.jpg": "/static/media/header 4.7e1252d216a1251742a1.jpg",
+    "static/media/header 6.jpg": "/static/media/header 6.129cab56ff573abef208.jpg",
+    "static/media/logo-removebg.png": "/static/media/logo-removebg.47fbfcb8c973466061b6.png",
+    "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
+    "static/media/success.png": "/static/media/success.a6e71fb67ec0538ff2ee.png",
+    "static/media/failed.png": "/static/media/failed.25f9a5080785b1e6642c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0511f5cb.css",
+    "static/js/main.73e370d3.js"
+  ]
+}
